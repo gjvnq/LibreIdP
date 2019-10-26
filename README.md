@@ -1,12 +1,13 @@
-# gjvnq's Auther
-A simple web tool for user management, authentication and authorization.
+# gjvnq's IdP
+
+A simple and light weight Identity Provider for OpenID Connect.
+
+
+
 
 ## Features and Non Features
 
-  * OpenID Connect.
+  * OpenID Connect protocol.
   * Easy docker deployment.
   * Store data in MariaDB.
-  * Permission logic in custom scripts.
-  * Group hierarchy.
-  * User registration.
-  * Both global permissions and per app permissions.
+  * 2FA via WebAuthn.
